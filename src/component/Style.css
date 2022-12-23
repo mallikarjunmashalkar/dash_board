@@ -1,0 +1,202 @@
+body{
+    background: rgb(201, 200, 197);
+}
+.top-border{
+    display: flex;
+    border: 1px solid black;
+    margin: 0.5rem 0rem 0rem 1rem;
+    width: 94.5rem;
+    height: 3rem;
+    background: white;
+    border: none;
+    
+}
+.top-border span{
+    font-size: 28px; 
+    padding-top: 0.2rem;
+    font-weight: 900;
+}
+.left-border{
+    border: 1px solid black;
+    width: 3rem;
+    height: 42.9rem;
+    background: black;
+    border: none;
+    
+    
+}
+.left-border button{
+width: 3rem;
+height: 3rem;
+background-color: rgb(19, 19, 20);
+border: none;
+
+}
+.left-border button:hover{
+  background: #5398de;
+  transition: all 0.3s;
+  border-radius: 3px;
+  box-shadow: 0px 6px 15px #0000ff61;
+}
+.cards-1{
+    display: flex;
+}
+.card-a{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 15rem;
+  height: 9rem;
+  margin-left: 5rem;
+  margin-top: 1rem;
+  background: white;
+  border-radius: 5px;
+}
+.card-aa{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 15rem;
+    height: 9rem;
+    margin-top: 4.1rem;
+    background: white;
+    border-radius: 5px;
+  }
+.card-b{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 28rem;
+    height: 19rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    background: white;
+    border-radius: 5px;
+    
+  }
+  .container-b li{
+    font-weight: 500;
+    font-size: 13px;
+
+  }
+  .container-b img{
+    padding-top: 2.5rem;
+    width: 25rem;
+  }
+  .card-c{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 28rem;
+    height: 19rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    background: white;
+    border-radius: 5px;
+  }
+  .container-c img{
+    padding-top: 2.5rem;
+    width: 17rem;
+    height: 16rem;
+ 
+  }
+  .card-d{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 15rem;
+    height: 9rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    background: white;
+    border-radius: 5px;
+  }
+  .card-dd{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 15rem;
+    height: 9rem;
+    margin-top: 4.1rem;
+    background: white;
+    border-radius: 5px;
+  }
+  .container-dd img{
+    width: 10rem;
+    height: 9rem;
+  }
+  .cards-2{
+    display: flex;
+}
+.card-e{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 15rem;
+  height: 9rem;
+  margin-left: 5rem;
+  margin-top: 1rem;
+  background: white;
+  border-radius: 5px;
+}
+.card-ee{
+
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 15rem;
+    height: 9rem;
+    margin-top: 4.1rem;
+    background: white;
+    border-radius: 5px;
+  }
+.card-f{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.6s;
+    width: 28rem;
+    height: 19rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    background: white;
+    border-radius: 5px;
+    
+  }
+  .container-f{
+    margin-top: 1.5rem;
+    font-weight: 700;
+  }
+  .container-f img{
+    padding-top: 1.5rem;
+    width: 23rem;
+  }
+  .card-g{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 21.5rem;
+    height: 19rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    background: white;
+    border-radius: 5px;
+  }
+  .container-g{
+    margin-top: 1.5rem;
+    font-weight: 700;
+  }
+  .container-g img{
+    padding-top: 2rem;
+    width: 21rem;
+    height: 14rem;
+  }
+  .card-h{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 21.5rem;
+    height: 19rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    background: white;
+    border-radius: 5px;
+  }
+  
+.container-h{
+  margin-top: 1.5rem;
+    font-weight: 700;
+}
+.container-h img{
+  /* padding-top: 2rem; */
+  width: 20rem;
+}
+ 
